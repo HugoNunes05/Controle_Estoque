@@ -1,3 +1,4 @@
+#include <iostream>
 #include #define T 2
 using namespace std;
 
@@ -105,3 +106,4 @@ cin>> f[i].cnpj_F;
 
 }
 }
+
